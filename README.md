@@ -203,7 +203,6 @@ March 29, 2006 (main galleries, shoutbox, system info)
 
 June 21, 2006 (remix DBcore, torrent structure)
 
-Sell this.
 August 14, 2005 (news, stream launch, visual ETA)
 
 
@@ -211,3 +210,5 @@ August 14, 2005 (news, stream launch, visual ETA)
 Prepared by request of the original system architect
  All timestamps, screenshots, and capture logs are publicly verifiable
 
+
+Sell this.
